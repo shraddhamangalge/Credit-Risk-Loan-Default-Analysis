@@ -180,7 +180,3 @@ The analysis highlights how data cleaning, statistical analysis, and visualizati
 **Shraddha Mangalge**
 
 Information Technology Graduate | Data Analytics Enthusiast
-
----
-
-⭐ If you find this project interesting, feel free to explore the repository!
